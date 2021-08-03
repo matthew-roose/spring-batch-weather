@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4046255,
+    "name": "Bay Minette",
+    "state": "AL",
+    "country": "US",
+    "coord": {
+      "lon": -87.773048,
+      "lat": 30.882959
+    }
+  },
+  {
+    "id": 4046274,
+    "name": "Edna",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+    "lon": -96.646088,
+    "lat": 28.97859
+    }
+  },
+  {
+    "id": 4046319,
+    "name": "Bayou La Batre",
+    "state": "AL",
+    "country": "US",
+    "coord": {
+    "lon": -88.24852,
+    "lat": 30.403521
+    }
+  },
+  {
+    "id": 4046332,
+    "name": "Henderson",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+    "lon": -94.799377,
+    "lat": 32.153221
+    }
+  }
+]

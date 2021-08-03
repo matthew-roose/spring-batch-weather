@@ -1,0 +1,5 @@
+postgres:
+  driverClassName: org.postgresql.Driver
+  url: jdbc:postgresql://localhost:5433/matthewroose
+  username: matthewroose
+  password: matthewroose
